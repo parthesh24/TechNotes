@@ -3,6 +3,11 @@
 It has all of the CRUD operations on notes.
 User Authentication and Authorization has also been added for improving security.
 
+### Technology Stack:
+Frontend: React.js, Redux
+Backend: Node.js, Express.js
+Database: MongoDB
+
 1) Clone the repository using:
 
 ### `git clone ${link}`
@@ -23,4 +28,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `cd backend`
 
-4) run the 
+4) run the server.js file:
+
+### `node server.js`
